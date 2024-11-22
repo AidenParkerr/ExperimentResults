@@ -1,0 +1,5 @@
+Mean Absolute Percentage Error: 2.466203905712481
+Root Mean Squared Error: 0.012030948040118561
+Median Absolute Error: 0.0057079023593042955
+Mean Squared Error: 0.00014474371074403263
+Mean Absolute Error: 0.008574411769008788
